@@ -73,3 +73,8 @@ Provide the required inputs as prompted by the script.
  - Performance : The script should execute tasks swiftly and efficiently.
  - Security : Ensure that the script runs with appropriate permissions to prevent unauthorized access.
  - Portability : The script should be executable on different Linux distributions without needing significant modifications.
+
+Contributions:
+Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue. 
+
+Note: This project is intended for educational and demonstrational purposes. Use it responsibly and at your own risk.
