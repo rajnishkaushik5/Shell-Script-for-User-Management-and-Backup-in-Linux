@@ -15,7 +15,7 @@ version control, and share their script.
 Code Repository :
 
 - Repository Platform : GitHub
-- Repository Link :
+- Repository Link : https://github.com/rajnishkaushik5/Shell-Script-for-User-Management-and-Backup-in-Linux/blob/main/main-script.sh
 - Access instructions : Clone the reopository to your local machine using Git. Instruction on cloning a repository can be found on GitHub's help pages.
 
 Requirements :
