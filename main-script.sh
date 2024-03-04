@@ -309,7 +309,7 @@ function take_backup {
 
 	echo "Backup begins"
 
-	#tar -czvf <src> <dest>
+	#tar -czvf <dest> <src>
 	tar -czvf "${tgt_dir}/${backup_filename}" "$src_dir"
 
 	echo "Backup completed"
