@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Display the menu options
 function display {
 
 	echo "Please enter your choice : "
